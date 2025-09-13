@@ -23,6 +23,12 @@ Currently focusing on **SQL, Excel, and Power BI** to analyze and visualize data
 - [Retail Sales & Profitability Dashboard](https://github.com/BenedictLodangco/Retail-Sales-Dashboard-Excel.git) – Retail sales dashboard built in Excel using Power Query, Power Pivot (DAX), and Pivot Tables
 
 
+## 📜 Certificates
+- [SQL Fundamentals - Datacamp]([#]https://www.datacamp.com/completed/statement-of-accomplishment/track/3498ce64db768e514092071af292d36f12abdda8)
+- [Excel Fundamentals - Datacamp]([#](https://www.datacamp.com/completed/statement-of-accomplishment/track/b3145fc91dd1e08586e67ffb0ab1f9eefb2790c5))   
+- [Power BI Fundamentals - Datacamp]([#](https://www.datacamp.com/completed/statement-of-accomplishment/track/31b806b4e72d681aef98afe8e1b7e84a0f079680))  
+
+
 ## 📫 Connect with Me
 - LinkedIn: www.linkedin.com/in/benedict-lodangco
 - Email: bcl.lodangco411@gmail.com
