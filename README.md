@@ -7,10 +7,10 @@ Currently focusing on **SQL, Excel, and Power BI** to analyze and visualize data
 
 
 ## 🔎 About Me
-- 📊 Skilled in **data cleaning, reporting, and visualization**  
-- 📚 Continuously learning to improve my **analytical and storytelling skills**  
-- 💡 Interested in using data to solve **business and real-world problems**  
-- 🤝 Open to collaborating on projects and case studies in analytics  
+- Skilled in **data cleaning, reporting, and visualization**  
+- Continuously learning to improve my **analytical and storytelling skills**  
+- Interested in using data to solve **business and real-world problems**  
+- Open to collaborating on projects and case studies in analytics  
 
 
 ## 🛠️ Tools & Skills
