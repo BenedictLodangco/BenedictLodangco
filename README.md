@@ -18,14 +18,12 @@ Currently focusing on **SQL, Excel, and Power BI** to analyze and visualize data
 - **Visualization**: Power BI (dashboards, KPIs, reports)  
 - **Data Analysis**: Microsoft Excel (formulas, pivot tables, charts)  
 
----
 
 ## 📂 Featured Projects
 - [Retail Sales & Profitability Dashboard](https://github.com/BenedictLodangco/Retail-Sales-Dashboard-Excel.git) – Retail sales dashboard built in Excel using Power Query, Power Pivot (DAX), and Pivot Tables
 
----
 
 ## 📫 Connect with Me
-- LinkedIn: (www.linkedin.com/in/benedict-lodangco)
-- Email: (bcl.lodangco411@gmail.com)
+- LinkedIn: www.linkedin.com/in/benedict-lodangco
+- Email: bcl.lodangco411@gmail.com
 
