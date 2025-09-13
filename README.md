@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋 I'm Benedict C. Lodangco
 
-<!--
-**BenedictLodangco/BenedictLodangco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst | Data Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+I’m passionate about transforming raw data into meaningful insights that support better decision-making.  
+Currently focusing on **SQL, Excel, and Power BI** to analyze and visualize data effectively.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔎 About Me
+- 📊 Skilled in **data cleaning, reporting, and visualization**  
+- 📚 Continuously learning to improve my **analytical and storytelling skills**  
+- 💡 Interested in using data to solve **business and real-world problems**  
+- 🤝 Open to collaborating on projects and case studies in analytics  
+
+---
+
+## 🛠️ Tools & Skills
+- **Databases**: SQL (queries, joins, aggregations)  
+- **Visualization**: Power BI (dashboards, KPIs, reports)  
+- **Data Analysis**: Microsoft Excel (formulas, pivot tables, charts)  
+
+---
+
+## 📂 Featured Projects
+- 📈 [Retail Sales & Profitability Dashboard](https://github.com/BenedictLodangco/Retail-Sales-Dashboard-Excel.git) – Retail sales dashboard built in Excel using Power Query, Power Pivot (DAX), and Pivot Tables
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [www.linkedin.com/in/benedict-lodangco] 
+- Email: [bcl.lodangco411@gmail.com] 
+
