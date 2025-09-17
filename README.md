@@ -21,6 +21,8 @@ Currently focusing on **SQL, Excel, and Power BI** to analyze and visualize data
 
 ## 📂 Featured Projects
 - [Retail Sales & Profitability Dashboard](https://github.com/BenedictLodangco/Retail-Sales-Dashboard-Excel.git) – Retail sales dashboard built in Excel using Power Query, Power Pivot (DAX), and Pivot Tables
+- [Coffee Sales Dashboard](https://github.com/BenedictLodangco/coffee-sales-dashboard) – Excel project analyzing coffee sales using formulas (VLOOKUP, INDEX-MATCH, IF), pivot tables, and interactive charts.  
+- [Uber Trip Analysis Dashboard](https://github.com/BenedictLodangco/uber-trip-analysis) – Power BI project analyzing Uber trip data with KPIs, measure selectors, location analysis, and vehicle type insights.  
 
 
 ## 📜 Certificates
